@@ -1,5 +1,6 @@
-'use client';
+'use client'
 
+import { useState } from 'react'
 import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { Plus, BookOpen, ChevronRight, MoreVertical, Edit2, Trash2 } from 'lucide-react';
